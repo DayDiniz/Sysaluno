@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SysClass • Portal do Docente",
+  "description": "Portal do Aluno (SysClass Student) mobile-first com design Apple/Linear minimalista, controle de assiduidade, tutor inteligente IA e agenda letiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
